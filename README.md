@@ -6,11 +6,12 @@
 <h1 align="center">Hi, I'm Radityo Budi Waskito ✦</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Informatics+%40+UNTIRTA+%7C+Security+%26+Explainable+ML;Author+of+SIDIK%3A+Offline+Polyglot+SAST+%26+8-Ecosystem+SCA;Author+of+SIDIK-ML%3A+5+Bundled+Non-ANN+Models;Python+%7C+Laravel+(PHP)+%7C+Godot+4.5+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Informatics+%40+UNTIRTA+%7C+Security%2C+Explainable+ML+%26+Full-Stack;Author+of+SIDIK%3A+Offline+Polyglot+SAST+%26+8-Ecosystem+SCA;Author+of+SIDIK-ML%3A+5+Bundled+Non-ANN+Models;Architect+of+RyoCantSleep%3A+Next.js+16+Monorepo%2C+LMS%2C+API+%26+Cyber+Range;Python+%7C+TypeScript+%7C+Laravel+%7C+Docker+%7C+Godot+4.5+%7C+Blender" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://radityobw.github.io/"><img src="https://img.shields.io/badge/Portfolio-radityobw.github.io-0ea5e9?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://ryocantsleep.com"><img src="https://img.shields.io/badge/Ecosystem-ryocantsleep.com-6366f1?style=for-the-badge" alt="RyoCantSleep Ecosystem" /></a>
   <a href="https://pypi.org/project/sidik/"><img src="https://img.shields.io/pypi/v/sidik?label=sidik%20PyPI&color=0ea5e9&style=for-the-badge&cacheSeconds=3600" alt="SIDIK PyPI" /></a>
   <a href="https://pypi.org/project/sidik-ml/"><img src="https://img.shields.io/pypi/v/sidik-ml?label=sidik--ml%20PyPI&color=f59e0b&style=for-the-badge&cacheSeconds=3600" alt="SIDIK-ML PyPI" /></a>
   <a href="https://jurnal.mediaakademik.com/index.php/jma/article/view/9068/6647"><img src="https://img.shields.io/badge/Research-JMA%20Paper-10b981?style=for-the-badge" alt="JMA Paper" /></a>
@@ -23,14 +24,14 @@
 
 I am an Informatics undergraduate at the Faculty of Engineering, **Universitas Sultan Ageng Tirtayasa (UNTIRTA)**, Indonesia, focused on building practical, offline-capable, and evidence-driven software.
 
-- 🛡️ Designing offline **SAST / SCA** security analyzers and **explainable Non-ANN machine learning** extensions ([SIDIK](https://github.com/radityobw/SIDIK) &amp; [SIDIK-ML](https://github.com/radityobw/SIDIK-ML))
-- ⚙️ Building full-stack web platforms &amp; CLI/GUI tools with **Python**, **Laravel (PHP)**, **Tailwind CSS**, **Alpine.js / Vite**, and **MySQL / SQLite**
-- 🌱 Developing empathetic educational games in **Godot v4.5** ([Langkah Kecil](https://github.com/radityobw/langkah-kecil))
+- 🛡️ Designing offline **SAST / SCA** security analyzers (`SIDIK`), **explainable Non-ANN ML** (`SIDIK-ML`), and a Dockerized hybrid **Cyber Range** with 6-stage DevSecOps CI/CD (`ryocantsleep-labs`)
+- 🌐 Architecting the **[RyoCantSleep](https://ryocantsleep.com)** polymath ecosystem: a 9-app **Next.js 16 / Turborepo** monorepo, a full-stack **Prisma / PostgreSQL / Clerk** LMS ([edu.ryocantsleep.com](https://edu.ryocantsleep.com)), and a **Supabase / Upstash Redis** knowledge API ([api.ryocantsleep.com](https://api.ryocantsleep.com))
+- ⚙️ Shipping full-stack web apps &amp; empathetic software with **Laravel (PHP 8.3+)**, **Tailwind CSS**, **Alpine.js / Vite**, **Godot v4.5** ([Langkah Kecil](https://github.com/radityobw/langkah-kecil)), and **Blender 3D** asset pipelines
 - 🔬 Applying empirical research methodology, reproducible benchmarking, and technical writing ([Published JMA Paper](https://jurnal.mediaakademik.com/index.php/jma/article/view/9068/6647))
 
 ---
 
-## ✧ Pinned &amp; Featured Projects
+## ✧ Pinned &amp; Featured Open-Source Projects
 
 | Project | Domain &amp; Applied Stack | Highlights &amp; Live Links |
 | :--- | :--- | :--- |
@@ -42,10 +43,23 @@ I am an Informatics undergraduate at the Faculty of Engineering, **Universitas S
 
 ---
 
+## ✧ RyoCantSleep Polymath Ecosystem (Private Architecture &amp; Live Platforms)
+
+Alongside my public GitHub repositories, I architect and operate the **RyoCantSleep** multi-platform ecosystem spanning education, APIs, interactive web experiences, and container security labs.
+
+| Platform | Applied Stack | Architecture Highlights &amp; Status |
+| :--- | :--- | :--- |
+| **`ryocantsleep-mono`** *(Private Repo)* | `Next.js 16` · `React 19` · `TypeScript` · `Turborepo` · `pnpm` · `Tailwind v4` · `Framer Motion` · `MDX` | 9-app polymath hub sharing `@repo/config`, `@repo/ui` CSS-variable themes, and Blender `.glb` 3D assets.<br/>Live: [Core Hub](https://ryocantsleep.com) · [Hack](https://hack.ryocantsleep.com) · [Math](https://math.ryocantsleep.com) · [Design](https://design.ryocantsleep.com) · [Film](https://film.ryocantsleep.com) · [Hear](https://hear.ryocantsleep.com) · [Play](https://play.ryocantsleep.com) · [Read](https://read.ryocantsleep.com) · [Speak](https://speak.ryocantsleep.com) |
+| **`ryocantsleep-edu`** *(Private Repo)* | `Next.js 16` · `Prisma` · `PostgreSQL` · `Supabase` · `Clerk` · `Upstash Redis` · `shadcn/ui` · `Zustand` · `Zod` | Full-stack LMS (`22` Prisma models) featuring RBAC, IP Guard &amp; rate limiting, Lemon Squeezy checkout + Svix webhooks, UploadThing/ImageKit media, and PDF/QR certificates.<br/>Live: [edu.ryocantsleep.com](https://edu.ryocantsleep.com) |
+| **`ryocantsleep-api`** *(Private Repo)* | `Next.js 16` · `TypeScript` · `Supabase` · `Upstash Redis` · `Recharts` | Rate-limited (`50 req / 10s` sliding window) 8-domain knowledge facts REST API (`/api/cysecfacts`, `/api/aifacts`, `/api/gamedevfacts`, and 5 more) paired with a live latency &amp; telemetry monitor.<br/>Live: [api.ryocantsleep.com](https://api.ryocantsleep.com) |
+| **`ryocantsleep-labs`** *Private / Self-Hosted Infrastructure* | `Laravel 12` · `PHP 8.2+` · `PostgreSQL 16` · `Docker` · `Nginx` · `Grafana` · `Loki` | Dockerized hybrid cyber range isolating `frontend_net`, `backend_net`, and `sandbox_net` behind Nginx with SQLi, IDOR, SSRF, and RCE labs, dynamic UUID flags, Grafana + Loki observability, and a 6-stage DevSecOps pipeline (Gitleaks, Trivy, Composer/NPM audit, k6, OWASP ZAP, Syft SBOM). |
+
+---
+
 ## ✧ Applied Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,laravel,tailwind,alpinejs,vite,godot,sklearn,mysql,sqlite,docker,githubactions,git&perline=9" alt="Applied Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,php,cpp,html,css,nextjs,react,laravel,tailwind,alpinejs,vite,sklearn,postgres,prisma,supabase,redis,mysql,sqlite,docker,nginx,grafana,githubactions,vercel,cloudflare,pnpm,git,godot,blender&perline=10" alt="Applied Tech Stack" />
 </p>
 
 ---
@@ -80,6 +94,7 @@ I am an Informatics undergraduate at the Faculty of Engineering, **Universitas S
 
 <p align="center">
   <a href="https://radityobw.github.io/"><img src="https://img.shields.io/badge/Portfolio-radityobw.github.io-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ryocantsleep.com"><img src="https://img.shields.io/badge/RyoCantSleep-ryocantsleep.com-6366f1?style=for-the-badge" alt="RyoCantSleep" /></a>
   <a href="https://linkedin.com/in/radityobw"><img src="https://img.shields.io/badge/LinkedIn-radityobw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/radityo_bw"><img src="https://img.shields.io/badge/Instagram-%40radityo__bw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:radityobudiw@gmail.com"><img src="https://img.shields.io/badge/Email-radityobudiw%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>

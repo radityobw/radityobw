@@ -97,6 +97,8 @@ Alongside my public GitHub repositories, I architect and operate the **RyoCantSl
   <a href="https://ryocantsleep.com"><img src="https://img.shields.io/badge/RyoCantSleep-ryocantsleep.com-6366f1?style=for-the-badge" alt="RyoCantSleep" /></a>
   <a href="https://linkedin.com/in/radityobw"><img src="https://img.shields.io/badge/LinkedIn-radityobw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/radityo_bw"><img src="https://img.shields.io/badge/Instagram-%40radityo__bw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://twitter.com/radityobw"><img src="https://img.shields.io/badge/X-%40radityobw-111111?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.youtube.com/@radityobw"><img src="https://img.shields.io/badge/YouTube-%40radityobw-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:radityobudiw@gmail.com"><img src="https://img.shields.io/badge/Email-radityobudiw%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 

@@ -1,8 +1,3 @@
-<!-- Hero Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/header.png" width="88%" alt="Radityo Budi Waskito Banner" />
-</p>
-
 <p align="center">
   <a href="https://radityobw.github.io/" title="Interactive 3D Portfolio">
     <img src="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d.gif" width="210" alt="Radityo Budi Waskito 3D Emblem" />

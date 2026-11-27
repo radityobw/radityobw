@@ -104,5 +104,5 @@ Alongside my public GitHub repositories, I architect and operate the **RyoCantSl
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:f59e0b&height=115&section=footer&text=Build%20gently%2C%20learn%20fiercely.&fontSize=19&fontColor=ffffff&fontAlignY=74" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:f59e0b&height=115&section=footer&text=Premature%20satisfaction%20is%20a%20dream-killer%20of%20ambition.&fontSize=18&fontColor=ffffff&fontAlignY=74" width="100%" alt="Footer Wave" />
 </p>

@@ -3,6 +3,16 @@
   <img src="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/header.png" width="88%" alt="Radityo Budi Waskito Banner" />
 </p>
 
+<p align="center">
+  <a href="https://radityobw.github.io/" title="Interactive 3D Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d-dark.gif" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d-light.gif" />
+      <img src="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d-dark.gif" width="210" alt="Radityo Budi Waskito 3D Emblem" />
+    </picture>
+  </a>
+</p>
+
 <h1 align="center">Hi, I'm Radityo Budi Waskito ✦</h1>
 
 <p align="center">

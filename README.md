@@ -5,11 +5,7 @@
 
 <p align="center">
   <a href="https://radityobw.github.io/" title="Interactive 3D Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d-dark.gif" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d-light.gif" />
-      <img src="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d-dark.gif" width="210" alt="Radityo Budi Waskito 3D Emblem" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/radityobw/radityobw/main/assets/radityobw-3d.gif" width="210" alt="Radityo Budi Waskito 3D Emblem" />
   </a>
 </p>
 
